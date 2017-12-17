@@ -1,0 +1,19 @@
+{
+  "name": "redux-meta-selector",
+  "version": "1.0.0",
+  "description": "Middleware for redux that enables an action to return data from the store via a selector.",
+  "main": "meta-selector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "middleware"
+  ],
+  "author": "Jason McCarrell <jason.abz+npm@gmail.com> (http://www.jayeh.ca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funkjunky/end-polyfills/issues"
+  },
+  "homepage": "https://github.com/funkjunky/end-polyfills#readme"
+}
